@@ -1,0 +1,23 @@
+
+table{
+   border:thin dotted gray;
+   width: 90% !important;
+   margin: 0 auto;
+   margin-top: 25px;
+ 
+}
+
+caption{
+   background-color:  #15628f;
+   color:white;
+ }
+ 
+ .table-striped tbody tr:nth-of-type(odd):hover {
+    background-color: #E7DADA;
+  
+}
+
+.table-striped tbody tr:nth-of-type(even):hover {
+    background-color: #B99EBD;
+    color:white;
+}

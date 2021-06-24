@@ -1,0 +1,71 @@
+.list-group{
+    width: 70%;
+    margin: 0 auto;
+    background-color: #79bff8f1;
+    border:1px dotted #38006b;
+}
+
+.datos{
+	display:inline-table;
+	height: 38rem !important;
+	margin-right:10px;
+	margin-bottom:8px;
+	border:1px solid #6a1b9a;
+	margin-left:5px;
+
+	}
+.datos:hover{
+	background: #fce4ec;
+	 transform: scale(1.1);
+	 z-index: 2;
+	 margin-left: 5px;
+	
+	 }
+
+.altura{
+	height:200px;
+	text-align: justify;
+}
+.centrar{
+	margin:0 auto;
+	
+
+	}
+h2{
+	text-align:center;
+	font-size: 30px;
+	margin-top:15px
+}
+
+ 
+ .card-body{
+ text-align: center;
+
+ }
+ 
+.card-title{
+	background: #008080;
+	color:white;
+}
+
+.titulosLibro{
+	
+	font-weight: bold;
+	
+}
+.paddingCards{
+	padding-bottom:  35px;
+
+}
+
+.btnCarrito{
+	height:39px;
+}
+.btnCarrito:hover{
+	background: #ec407a;
+	
+}
+.card-body a{
+	text-decoration: none
+	
+}
